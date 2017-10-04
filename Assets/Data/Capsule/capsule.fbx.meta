@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 372c3c22a403e344dbae34aa22a47092
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: button_analyze
+    100004: button_move_down
+    100006: button_move_left
+    100008: button_move_right
+    100010: button_move_up
+    100012: button_ping
+    100014: button_scan
+    100016: button_send
+    100018: capsule
+    100020: panel
+    100022: Sun
+    100024: lamp
+    100026: screen
+    100028: code_block
+    100030: progress_bar
+    400000: //RootNode
+    400002: button_analyze
+    400004: button_move_down
+    400006: button_move_left
+    400008: button_move_right
+    400010: button_move_up
+    400012: button_ping
+    400014: button_scan
+    400016: button_send
+    400018: capsule
+    400020: panel
+    400022: Sun
+    400024: lamp
+    400026: screen
+    400028: code_block
+    400030: progress_bar
+    2300000: //RootNode
+    2300002: button_analyze
+    2300004: button_move_down
+    2300006: button_move_left
+    2300008: button_move_right
+    2300010: button_move_up
+    2300012: button_ping
+    2300014: button_scan
+    2300016: button_send
+    2300018: capsule
+    2300020: panel
+    2300022: lamp
+    2300024: screen
+    2300026: code_block
+    2300028: progress_bar
+    3300000: //RootNode
+    3300002: button_analyze
+    3300004: button_move_down
+    3300006: button_move_left
+    3300008: button_move_right
+    3300010: button_move_up
+    3300012: button_ping
+    3300014: button_scan
+    3300016: button_send
+    3300018: capsule
+    3300020: panel
+    3300022: lamp
+    3300024: screen
+    3300026: code_block
+    3300028: progress_bar
+    4300000: Capsule
+    4300002: panel
+    4300004: button_ping
+    4300006: button_scan
+    4300008: button_move_right
+    4300010: button_move_left
+    4300012: button_move_down
+    4300014: button_move_up
+    4300016: button_analyze
+    4300018: button_send
+    4300020: capsule
+    4300022: lamp
+    4300024: screen
+    4300026: code_block
+    4300028: progress_bar
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    pivotNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
